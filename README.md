@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Machine Learning**
 
